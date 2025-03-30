@@ -1,0 +1,34 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #a7d6ee;
+    color: #333;
+    text-align: center;
+    padding: 20px;
+}
+h1 {
+    color: #013e67;
+}
+.card {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    display: inline-block;
+    width: 80%;
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: left;
+}
+a {
+    color: #007acc;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+img {
+    max-width: 100%;
+    height: auto; /* Mantém a proporção da imagem */
+  }
